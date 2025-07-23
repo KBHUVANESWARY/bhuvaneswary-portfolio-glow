@@ -71,15 +71,14 @@ export default {
 				'gradient-primary': 'var(--gradient-primary)',
 				'gradient-secondary': 'var(--gradient-secondary)',
 				'gradient-surface': 'var(--gradient-surface)',
-				'gradient-tech': 'var(--gradient-tech)',
 				'gradient-card': 'var(--gradient-card)',
+				'gradient-elegant': 'var(--gradient-elegant)',
 			},
 			boxShadow: {
 				'glow-primary': 'var(--glow-primary)',
 				'glow-secondary': 'var(--glow-secondary)',
-				'glow-accent': 'var(--glow-accent)',
 				'glow-soft': 'var(--glow-soft)',
-				'glow-tech': 'var(--glow-tech)',
+				'glow-elegant': 'var(--glow-elegant)',
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
